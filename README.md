@@ -24,8 +24,6 @@ For an optimal experience, we recommend the following hardware configuration:
 * **Memory**: 4 GB RAM or more
 
 
-
-
 ### Software requirements
 *	**Operating System**: Linux, Ubuntu, or macOS X
 *	**Browser**: Google Chrome (latest version)
